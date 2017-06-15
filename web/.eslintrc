@@ -1,0 +1,12 @@
+{
+  "extends": "airbnb",
+  "rules": {
+    "comma-dangle": 0,
+    "semi": 0,
+    "arrow-body-style": [0, "as-needed"],
+    "indent": [1, 2, { SwitchCase: 1, VariableDeclarator: 2 }],
+    "react/require-extension": 0,
+    "react/wrap-multilines": 0,
+    "react/forbid-prop-types": 0
+  }
+}
